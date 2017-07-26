@@ -1,0 +1,25 @@
+{
+  "name": "@ambassify/json-parse-safe",
+  "version": "1.0.0",
+  "description": "Like JSON.parse, but doesn't throw on invalid JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"OK: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambassify/json-parse-safe.git"
+  },
+  "keywords": [
+    "json",
+    "parse",
+    "JSON.parse",
+    "safe"
+  ],
+  "author": "Gert Sallaerts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ambassify/json-parse-safe/issues"
+  },
+  "homepage": "https://github.com/ambassify/json-parse-safe#readme"
+}
