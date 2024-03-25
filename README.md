@@ -1,6 +1,10 @@
 # json-parse-safe
-
 Like JSON.parse, but doesn't throw on invalid JSON.
+
+## Installation
+```sh
+npm i @ambassify/json-parse-safe
+```
 
 ## Usage
 
